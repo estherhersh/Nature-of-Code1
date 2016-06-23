@@ -1,4 +1,2 @@
 # Nature-of-Code
-share NOC assignments
-this is reb submitting her first assignment, late and ashamed. also this thing i made makes me nauseous.
-inspiration : https://www.youtube.com/watch?v=YrbY4hsNh64
+trying to fix organziation slash understand how git works. i think that bc you made Nature-of-Code1 folder it has to be the master? maybe not. i dunno. i'm putting everything in there. i renamed yr assignment and started putting all the assignment folders in the master Nature-of-Code1
